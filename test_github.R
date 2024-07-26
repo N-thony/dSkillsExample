@@ -4,7 +4,7 @@ library(datasets)  # For iris dataset
 ui <- fluidPage(
   
   # Application title
-  titlePanel("Iris Dataset Scatter Plotofr WP3 Training in DRC"),
+  titlePanel("Iris Dataset Scatter Plotofr"),
   
   # Sidebar layout with input and output definitions
   sidebarLayout(
